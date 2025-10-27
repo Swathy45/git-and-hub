@@ -1,0 +1,4 @@
+NAME = "SWATHY"
+YEAR= "2025"
+print("GITWISE"+ YEAR)
+print(NAME + "WAS HERE")
